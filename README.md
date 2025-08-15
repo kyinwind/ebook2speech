@@ -14,7 +14,7 @@ App主要功能：<br>
 4、对于比较长的文本，拆分为小段文字分别处理，处理完毕后合并语音文件。<br>
 
 app已经上架微软应用商店
-![截图]([Snipaste_2025-08-15_13-59-38.png](https://github.com/kyinwind/ebook2speech/blob/main/Snipaste_2025-08-15_13-59-38.png))
+![截图](Snipaste_2025-08-15_13-59-38.png)
 
 
 ![欢迎页面](01.JPG)
